@@ -1,4 +1,4 @@
- NETSENTRY — Network Traffic Intelligence & Intrusion Response
+# NETSENTRY — Network Traffic Intelligence & Intrusion Response
 
 **Course:** Computer Networks Laboratory (CSE20110)  
 **Academic Year:** 2026–2027  
